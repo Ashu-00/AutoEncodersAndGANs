@@ -9,4 +9,5 @@
 | Wasserstein GAN   | [Paper](https://arxiv.org/abs/1701.07875)  |
 | WGAN with GP  | [Paper](https://arxiv.org/abs/1704.00028)  |
 | Pix2Pix GAN | [Paper](https://arxiv.org/abs/1611.07004)  |
+| Progressive GAN | [Paper](https://arxiv.org/abs/1710.10196)  |
 
