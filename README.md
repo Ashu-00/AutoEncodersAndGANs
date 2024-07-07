@@ -7,3 +7,10 @@ Implementation of Popular Autoencoders and GANs.
 - Denoising
 - Variational
 - Implementation of MNIST digit generation.
+
+### List of GANs Implemented;
+- Original GAN
+- DCGAN
+- WGAN
+- Pix2Pix GAN
+- ProGAN
