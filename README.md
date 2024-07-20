@@ -9,7 +9,7 @@ Implementation of Popular Autoencoders and GANs.
 - Implementation of MNIST digit generation.
 
 ### List of GANs Implemented;
-- Original GAN
+- GAN (simple)
 - DCGAN
 - WGAN
 - Pix2Pix GAN
